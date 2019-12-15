@@ -1,8 +1,0 @@
-D:\MyProject\Zmeika\Zmeika\bin\Debug\Zmeika.exe
-D:\MyProject\Zmeika\Zmeika\bin\Debug\Zmeika.pdb
-D:\MyProject\Zmeika\Zmeika\obj\x86\Debug\Zmeika.Form1.resources
-D:\MyProject\Zmeika\Zmeika\obj\x86\Debug\Zmeika.Properties.Resources.resources
-D:\MyProject\Zmeika\Zmeika\obj\x86\Debug\Zmeika.csproj.GenerateResource.Cache
-D:\MyProject\Zmeika\Zmeika\obj\x86\Debug\Zmeika.exe
-D:\MyProject\Zmeika\Zmeika\obj\x86\Debug\Zmeika.pdb
-D:\MyProject\Zmeika\Zmeika\obj\x86\Debug\Zmeika.csprojResolveAssemblyReference.cache
