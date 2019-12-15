@@ -91,7 +91,7 @@ namespace Zmeika
             menu = new PictureBox();
             menu.Size = new Size(300, 300);
             menu.Visible = false;
-            menu.BackgroundImage = new Bitmap(Image.FromFile(@"D:\MyProject\Zmeika\Zmeika\bin\Debug\Snake_menu1.jpg"), menu.Width, menu.Height);
+            //menu.BackgroundImage = new Bitmap(Image.FromFile(@"D:\MyProject\Zmeika\Zmeika\bin\Debug\Snake_menu1.jpg"), menu.Width, menu.Height);
             menu.Location = new Point(100, 0);
             
 
@@ -99,7 +99,7 @@ namespace Zmeika
             Label lPoints = new Label();
             lPoints.Location = new Point(70, 14);
             lPoints.AutoSize = true;
-            lPoints.BackColor = (menu.BackgroundImage as Bitmap).GetPixel(10, 10);
+            //lPoints.BackColor = (menu.BackgroundImage as Bitmap).GetPixel(10, 10);
             lPoints.Font = new Font(FontFamily.Families[0], 12, FontStyle.Bold);
             lPoints.Text = "Your points are:  " + game_points.ToString();
 
